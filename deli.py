@@ -1,0 +1,3 @@
+#delirium
+
+print(delirium)
